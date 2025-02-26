@@ -1,4 +1,4 @@
-### Hello, my name is Timur, I am a Web Developer with `1 year experience in Frontend` and `1.5 years experience in Backend`. 
+### Hello, my name is Timur, I am a *Web Developer* with `1 year experience in Frontend` and `1.5 years experience in Backend`. 
 
 ### Currently studying in Innopolis University. Interested in Web Development and Blockchain.
 
