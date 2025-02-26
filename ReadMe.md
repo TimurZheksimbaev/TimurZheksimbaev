@@ -1,4 +1,4 @@
-<h2 align="left">Hello, my name is Timur, I am a Web Developer with experience in 1 year experience in Frontend and 1.5 years experience in Backend. Currently studying in Innopolis University. Interested in Web Development and Blockchain.</h2>
+<h2 align="left">Hello, my name is Timur, I am a Web Developer with `1 year experience in Frontend` and `1.5 years experience in Backend`. Currently studying in Innopolis University. Interested in Web Development and Blockchain.</h2>
 
 ###
 
