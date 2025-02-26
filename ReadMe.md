@@ -2,7 +2,7 @@
 
 ### Currently studying in Innopolis University. Interested in Web Development and Blockchain.
 
-#### I participated in couple of hackathons: **GoAlgo** with stock trading algorithm and **TulaHack** with street cleanliness ML monitoring system, where my team took *`2nd place`*. In both hackathons i was a `Fullstack Devloper`.
+#### I participated in couple of hackathons: *GoAlgo* with stock trading algorithm and *TulaHack* with street cleanliness ML monitoring system, where my team took *`2nd place`*. In both hackathons i was a `Fullstack Devloper`.
 
 
 ###
