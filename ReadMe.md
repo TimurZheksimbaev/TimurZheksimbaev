@@ -1,6 +1,6 @@
-  Hello, my name is Timur, I am a Web Developer with `1 year experience in Frontend` and `1.5 years experience in Backend`. Currently studying in Innopolis University. Interested in Web Development and Blockchain.
+- Hello, my name is Timur, I am a Web Developer with `1 year experience in Frontend` and `1.5 years experience in Backend`. Currently studying in Innopolis University. Interested in Web Development and Blockchain.
 <br/>
-  I participated in couple of hackathons: **GoAlgo** with stock trading algorithm and **TulaHack** with street cleanliness ML monitoring system, where my team took *`2nd place`*. In both hackathons i was a `Fullstack Devloper`.
+- I participated in couple of hackathons: **GoAlgo** with stock trading algorithm and **TulaHack** with street cleanliness ML monitoring system, where my team took *`2nd place`*. In both hackathons i was a `Fullstack Devloper`.
 
 
 ###
