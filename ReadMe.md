@@ -1,9 +1,8 @@
 # 👋 Hello, Привет, Hola, 你好, नमस्ते, Bonjour, Hallo
 
-
 ## 💻 Full-Stack Developer | Blockchain Enthusiast | Problem Solver
 
-I'm Timur, a full-stack developer forging connections between data and design. My technical journey includes **`1 year` engineering backend systems at Innopolis University**, **`6 months` creating responsive frontends at Picturino AI**, and valuable frontend experience as an intern at WebBee.
+I'm Timur, a full-stack developer forging connections between data and design. My technical journey includes **1 year engineering backend systems at Innopolis University**, **6 months creating responsive frontends at Picturino AI**, and valuable frontend experience as an intern at WebBee.
 
 ---
 
@@ -18,7 +17,8 @@ I'm Timur, a full-stack developer forging connections between data and design. M
 ### 🏆 Hackathon Adventures
 
 - **TulaHack**: Secured 2nd place developing an ML-powered street cleanliness monitoring system (Full-Stack Role)
-- **GoAlgo**: Built sophisticated stock trading algorithms and visualization tools (Full-Stack Role)
+- **GoAlgo**: Secured 2nd place building sophisticated stock trading algorithms and visualization tools (Full-Stack Role)
+- **Hackers League Hackathon**: Developed a freelance platform based on TON blockchain (Full-Stack Role)
 
 ---
 
@@ -29,9 +29,6 @@ What captures my imagination? The intersection of decentralized ledgers and seam
 I thrive in the full development lifecycle - from architecting backend systems to polishing pixel-perfect frontends.
 
 ---
-
-### 📫 Let's Connect
-*Let's build something revolutionary together!*
 
 
 ###
