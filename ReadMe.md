@@ -1,4 +1,5 @@
-# 👋 Hello, I'm Timur
+# 👋 Hello, Привет, Hola, 你好, नमस्ते, Bonjour, Hallo, হ্যালো, Olá, Halo, こんにちは                                                                                                                                            مرحبًا
+
 
 ## 💻 Full-Stack Developer | Blockchain Enthusiast | Problem Solver
 
