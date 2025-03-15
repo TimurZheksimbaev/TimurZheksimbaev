@@ -22,6 +22,16 @@ I'm Timur, a full-stack developer forging connections between data and design. M
 
 ---
 
+### 🌟 Beyond Coding
+
+When I'm not immersed in code, you might find me:
+- Training in martial arts, honing discipline and focus
+- Creating and producing music to exercise the creative side of my brain
+- Exploring new destinations and cultures through travel
+- Unwinding in a sauna, embracing the traditional relaxation technique
+
+---
+
 ### 🔭 What Drives Me
 
 What captures my imagination? The intersection of decentralized ledgers and seamless user experiences. I'm fascinated by how blockchain can transform traditional systems while remaining accessible through thoughtful web interfaces.
