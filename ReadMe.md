@@ -40,13 +40,7 @@ I thrive in the full development lifecycle - from architecting backend systems t
 
 ---
 
-### 📫 Let's Connect
-*Let's build something revolutionary together!*
-
-- 📧 Email: tmrzheksimbaev.work@yahoo.com
-- 💬 Telegram: [t.me/masterhorny1](https://t.me/masterhorny1)
-
-
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TimurZheksimbaev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -133,3 +127,10 @@ I thrive in the full development lifecycle - from architecting backend systems t
 </div>
 
 ###
+
+
+### 📫 Let's Connect
+*Let's build something revolutionary together!*
+
+- 📧 Email: tmrzheksimbaev.work@yahoo.com
+- 💬 Telegram: [t.me/masterhorny1](https://t.me/masterhorny1)
