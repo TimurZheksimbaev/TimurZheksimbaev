@@ -1,5 +1,11 @@
 # 👋 Hello, Привет, Hola, 你好, नमस्ते, Bonjour, Hallo
 
+# 👋 Hello, I'm Timur
+
+<div align="right">
+  <a href="#russian-version" style="display: inline-block; padding: 6px 12px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">🇷🇺 Русская версия</a>
+</div>
+
 ## 💻 Full-Stack Developer | Blockchain Enthusiast | Problem Solver
 
 I'm Timur, a full-stack developer forging connections between data and design. My technical journey includes **1 year engineering backend systems at Innopolis University**, **6 months creating responsive frontends at Picturino AI**, and valuable frontend experience as an intern at WebBee.
@@ -30,95 +36,46 @@ I thrive in the full development lifecycle - from architecting backend systems t
 
 ---
 
+### 📫 Let's Connect
+*Let's build something revolutionary together!*
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TimurZheksimbaev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TimurZheksimbaev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="right">
+  <a href="#" style="display: inline-block; padding: 6px 12px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">🇺🇸 English version</a>
 </div>
 
-###
+<h1 id="russian-version">🇷🇺 Привет, я Тимур</h1>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi logo"  />
-</div>
+## 💻 Full-Stack Разработчик | Энтузиаст Блокчейна | Решатель Проблем
 
-###
+Я Тимур, full-stack разработчик, создающий связи между данными и дизайном. Мой технический путь включает **1 год разработки backend систем в Университете Иннополис**, **6 месяцев создания отзывчивых frontend интерфейсов в Picturino AI** и ценный опыт frontend-разработки в качестве стажера в WebBee.
 
-<div align="left">
-  <a href="https://t.me/masterhorny1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  <a href="https://discordapp.com/users/timurzheksimbaev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://instagram.com/tttttmmmmmrrrrr_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+---
 
-###
+### 🛠️ Технический Арсенал
 
-<img align="right" height="150" src="https://media.tenor.com/fVJln34EY9oAAAAM/mr-krabs-money-angels.gif"  />
+- **Блокчейн**: Завершил программу Cyfrin Updraft по разработке на Ethereum, смарт-контрактам и интеграции Web3
+- **Backend**: Освоил Python и Java в рамках интенсивного обучения в Университете Иннополис
+- **Full-Stack**: Практический опыт реализации комплексных решений на различных платформах
 
-###
+---
 
-<br clear="both">
+### 🏆 Хакатоны
 
-<!-- <img src="https://raw.githubusercontent.com/TimurZheksimbaev/TimurZheksimbaev/output/snake.svg" alt="Snake animation" /> -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+- **TulaHack**: Занял 2-е место, разрабатывая систему мониторинга чистоты улиц на основе машинного обучения (Full-Stack роль)
+- **GoAlgo**: Занял 2-е место, создавая сложные алгоритмы торговли акциями и инструменты визуализации (Full-Stack роль)
+- **Hackers League Hackathon**: Разработал фриланс-платформу на основе блокчейна TON (Full-Stack роль)
 
-###
+---
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31q2hi5m2woi2bzthzarniabowiu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31q2hi5m2woi2bzthzarniabowiu&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+### 🔭 Что Меня Мотивирует
 
-###
-<div align="center">
-  <img src="https://profile-counter.glitch.me/TimurZheksimbaev/count.svg?"  />
-</div>
+Что захватывает мое воображение? Пересечение децентрализованных реестров и интуитивно понятных пользовательских интерфейсов. Меня увлекает то, как блокчейн может трансформировать традиционные системы, оставаясь доступным через продуманные веб-интерфейсы.
 
-###
+Я преуспеваю во всем жизненном цикле разработки - от проектирования backend систем до создания pixel-perfect frontend интерфейсов.
+
+---
+
+### 📫 Давайте Сотрудничать
+*Давайте вместе создадим что-то революционное!*
