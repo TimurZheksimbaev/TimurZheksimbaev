@@ -1,7 +1,6 @@
 # 👋 Hello, Привет, Hola, 你好, नमस्ते, Bonjour, Hallo
 
 <div align="right">
-  <span style=""> 👋 Hello, Привет, Hola, 你好, नमस्ते, Bonjour, Hallo </span>
   <a href="#russian-version" style="display: inline-block; padding: 6px 12px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">🇷🇺 Русская версия</a>
 </div>
 
