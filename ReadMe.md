@@ -1,8 +1,16 @@
-### Hello, my name is Timur, I am a *Web Developer* with `1 year experience in Frontend` and `1.5 years experience in Backend`. 
+# Hello there 👋
 
-### Currently studying in Innopolis University. Interested in Web Development and Blockchain.
+I'm Timur, a full-stack architect building digital bridges at Innopolis University. My code journey spans the spectrum: **1.5 years crafting robust backend systems** and **1 year sculpting intuitive frontends**.
 
-#### I participated in couple of hackathons: *GoAlgo* with stock trading algorithm and *TulaHack* with street cleanliness ML monitoring system, where my team took *`2nd place`*. In both hackathons i was a `Fullstack Devloper`.
+What drives me? The intersection of decentralized ledgers and seamless user experiences. I'm fascinated by how blockchain can transform traditional systems while remaining accessible through thoughtful web interfaces.
+
+## Beyond the IDE
+When not deep in code, you'll find me:
+- Competing in hackathons (and collecting trophies 🏆)
+- Securing 2nd place at **TulaHack** with an ML-powered street cleanliness monitoring system
+- Engineering algorithmic trading solutions at **GoAlgo**
+
+I thrive in the full development lifecycle - from architecting backend systems to polishing pixel-perfect frontends. Let's build something revolutionary together!
 
 
 ###
