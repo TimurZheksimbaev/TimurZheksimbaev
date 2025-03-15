@@ -1,16 +1,36 @@
-# Hello there 👋
+# 👋 Hello, I'm Timur
 
-I'm Timur, a full-stack architect building digital bridges at Innopolis University. My code journey spans the spectrum: **1.5 years crafting robust backend systems** and **1 year sculpting intuitive frontends**.
+## 💻 Full-Stack Developer | Blockchain Enthusiast | Problem Solver
 
-What drives me? The intersection of decentralized ledgers and seamless user experiences. I'm fascinated by how blockchain can transform traditional systems while remaining accessible through thoughtful web interfaces.
+I'm Timur, a full-stack developer forging connections between data and design. My technical journey includes **`1 year` engineering backend systems at Innopolis University**, **`6 months` creating responsive frontends at Picturino AI**, and valuable frontend experience as an intern at WebBee.
 
-## Beyond the IDE
-When not deep in code, you'll find me:
-- Competing in hackathons (and collecting trophies 🏆)
-- Securing 2nd place at **TulaHack** with an ML-powered street cleanliness monitoring system
-- Engineering algorithmic trading solutions at **GoAlgo**
+---
 
-I thrive in the full development lifecycle - from architecting backend systems to polishing pixel-perfect frontends. Let's build something revolutionary together!
+### 🛠️ Technical Arsenal
+
+- **Blockchain**: Completed Cyfrin Updraft program focused on Ethereum development, smart contracts, and Web3 integration
+- **Backend**: Mastered Python and Java through rigorous coursework at Innopolis University  
+- **Full-Stack**: Practical experience implementing end-to-end solutions across multiple platforms
+
+---
+
+### 🏆 Hackathon Adventures
+
+- **TulaHack**: Secured 2nd place developing an ML-powered street cleanliness monitoring system (Full-Stack Role)
+- **GoAlgo**: Built sophisticated stock trading algorithms and visualization tools (Full-Stack Role)
+
+---
+
+### 🔭 What Drives Me
+
+What captures my imagination? The intersection of decentralized ledgers and seamless user experiences. I'm fascinated by how blockchain can transform traditional systems while remaining accessible through thoughtful web interfaces.
+
+I thrive in the full development lifecycle - from architecting backend systems to polishing pixel-perfect frontends.
+
+---
+
+### 📫 Let's Connect
+*Let's build something revolutionary together!*
 
 
 ###
