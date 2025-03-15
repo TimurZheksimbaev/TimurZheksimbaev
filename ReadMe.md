@@ -14,7 +14,7 @@ I'm Timur, a full-stack developer forging connections between data and design. M
 
 - **Blockchain**: Completed Cyfrin Updraft program focused on Ethereum development, smart contracts, and Web3 integration
 - **Backend**: Mastered Python and Java through rigorous coursework at Innopolis University  
-- **Full-Stack**: Practical experience implementing end-to-end solutions across multiple platforms
+- **Frontend**: Built responsive interfaces at Picturino AI and WebBee using React, Redux, and Vite with a focus on performance optimization
 
 ---
 
@@ -58,7 +58,7 @@ I thrive in the full development lifecycle - from architecting backend systems t
 
 - **Блокчейн**: Завершил программу Cyfrin Updraft по разработке на Ethereum, смарт-контрактам и интеграции Web3
 - **Backend**: Освоил Python и Java в рамках интенсивного обучения в Университете Иннополис
-- **Full-Stack**: Практический опыт реализации комплексных решений на различных платформах
+- **Frontend**: Разрабатывал отзывчивые интерфейсы в Picturino AI и WebBee, используя React, Redux и Vite с акцентом на оптимизацию производительности
 
 ---
 
