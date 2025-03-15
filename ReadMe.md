@@ -6,7 +6,7 @@
 
 ## 💻 Full-Stack Developer | Blockchain Enthusiast | Problem Solver
 
-I'm Timur, a full-stack developer forging connections between data and design. My technical journey includes **1 year engineering backend systems at Innopolis University**, **6 months creating responsive frontends at Picturino AI**, and valuable frontend experience as an intern at WebBee.
+I'm Timur, a full-stack developer forging connections between data and design. My technical journey includes **`1 year` engineering backend systems at Innopolis University**, **`6 months` creating responsive frontends at Picturino AI**, and valuable **`3 months`** frontend experience as an intern at WebBee.
 
 ---
 
@@ -21,8 +21,8 @@ I'm Timur, a full-stack developer forging connections between data and design. M
 ### 🏆 Hackathon Adventures
 
 - **TulaHack**: Secured 2nd place developing an ML-powered street cleanliness monitoring system (Full-Stack Role)
-- **GoAlgo**: Secured 2nd place building sophisticated stock trading algorithms and visualization tools (Full-Stack Role)
-- **Hackers League Hackathon**: Developed a freelance platform based on TON blockchain (Full-Stack Role)
+- **GoAlgo**: Secured 2nd place building sophisticated stock trading algorithms and visualization tools (Backend Role)
+- **Hackers League Hackathon**: Developed a freelance platform based on TON blockchain (Fullstack Blockchain Role)
 
 ---
 
@@ -50,7 +50,7 @@ I thrive in the full development lifecycle - from architecting backend systems t
 
 ## 💻 Full-Stack Разработчик | Энтузиаст Блокчейна | Решатель Проблем
 
-Я Тимур, full-stack разработчик, создающий связи между данными и дизайном. Мой технический путь включает **1 год разработки backend систем в Университете Иннополис**, **6 месяцев создания отзывчивых frontend интерфейсов в Picturino AI** и ценный опыт frontend-разработки в качестве стажера в WebBee.
+Я Тимур, full-stack разработчик, создающий связи между данными и дизайном. Мой технический путь включает **`1 год` разработки backend систем в Университете Иннополис**, **`6 месяцев` создания отзывчивых frontend интерфейсов в Picturino AI** и ценный опыт frontend-разработки в качестве стажера в WebBee (**`3 месяца`**).
 
 ---
 
@@ -64,9 +64,9 @@ I thrive in the full development lifecycle - from architecting backend systems t
 
 ### 🏆 Хакатоны
 
-- **TulaHack**: Занял 2-е место, разрабатывая систему мониторинга чистоты улиц на основе машинного обучения (Full-Stack роль)
-- **GoAlgo**: Занял 2-е место, создавая сложные алгоритмы торговли акциями и инструменты визуализации (Full-Stack роль)
-- **Hackers League Hackathon**: Разработал фриланс-платформу на основе блокчейна TON (Full-Stack роль)
+- **TulaHack**: Занял 2-е место, разрабатывая систему мониторинга чистоты улиц на основе машинного обучения (Fullstack роль)
+- **GoAlgo**: Занял 2-е место, создавая сложные алгоритмы торговли акциями и инструменты визуализации (Backend роль)
+- **Hackers League Hackathon**: Разработал фриланс-платформу на основе блокчейна TON (Fullstack Blockchain роль)
 
 ---
 
