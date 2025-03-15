@@ -1,5 +1,7 @@
 # 👋 Hello, Привет, Hola, 你好, नमस्ते, Bonjour, Hallo
 
+# 👋 Hello, I'm Timur
+
 <div align="right">
   <a href="#russian-version" style="display: inline-block; padding: 6px 12px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">🇷🇺 Русская версия</a>
 </div>
@@ -36,6 +38,9 @@ I thrive in the full development lifecycle - from architecting backend systems t
 
 ### 📫 Let's Connect
 *Let's build something revolutionary together!*
+
+- 📧 Email: tmrzheksimbaev.work@yahoo.com
+- 💬 Telegram: [t.me/masterhorny1](https://t.me/masterhorny1)
 
 ---
 
@@ -77,3 +82,6 @@ I thrive in the full development lifecycle - from architecting backend systems t
 
 ### 📫 Давайте Сотрудничать
 *Давайте вместе создадим что-то революционное!*
+
+- 📧 Email: tmrzheksimbaev.work@yahoo.com
+- 💬 Telegram: [t.me/masterhorny1](https://t.me/masterhorny1)
