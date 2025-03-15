@@ -1,4 +1,4 @@
-# 👋 Hello, Привет, Hola, 你好, नमस्ते, Bonjour, Hallo, হ্যালো, Olá, Halo, こんにちは                                                                                                                                            مرحبًا
+# 👋 Hello, Привет, Hola, 你好, नमस्ते, Bonjour, Hallo
 
 
 ## 💻 Full-Stack Developer | Blockchain Enthusiast | Problem Solver
