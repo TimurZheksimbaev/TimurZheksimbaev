@@ -25,6 +25,10 @@ I'm Timur, a full-stack developer forging connections between data and design. M
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" height="40" alt="solidity logo" />
   <img width="12" />
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=040" height="40" alt="ethereum logo"  />
+  <img width="12" />
+  <img src="https://ton.org/download/ton_symbol.svg" height="40" alt="ton logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
@@ -34,10 +38,6 @@ I'm Timur, a full-stack developer forging connections between data and design. M
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=040" height="40" alt="ethereum logo"  />
-  <img width="12" />
-  <img src="https://ton.org/download/ton_symbol.svg" height="40" alt="ton logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" height="40" alt="redis logo"  />
   <img width="12" />
