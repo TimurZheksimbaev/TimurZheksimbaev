@@ -12,36 +12,6 @@ I'm Timur, a full-stack developer forging connections between data and design. M
 - **Backend**: Mastered Python and Java through rigorous coursework at Innopolis University  
 - **Frontend**: Built responsive interfaces at Picturino AI and WebBee using React, Redux, and Vite with a focus on performance optimization
 
----
-
-### 🏆 Hackathon Adventures
-
-- **TulaHack**: Secured 2nd place developing an ML-powered street cleanliness monitoring system (Full-Stack Role)
-- **GoAlgo**: Secured 2nd place building sophisticated stock trading algorithms and visualization tools (Backend Role)
-- **Hackers League Hackathon**: Developed a freelance platform based on TON blockchain (Fullstack Blockchain Role)
-
----
-
-### 🌟 Beyond Coding
-
-When I'm not immersed in code, you might find me:
-- Training in martial arts, honing discipline and focus
-- Creating and producing music to exercise the creative side of my brain
-- Exploring new destinations and cultures through travel
-- Unwinding in a sauna, embracing the traditional relaxation technique
-
----
-
-### 🔭 What Drives Me
-
-What captures my imagination? The intersection of decentralized ledgers and seamless user experiences. I'm fascinated by how blockchain can transform traditional systems while remaining accessible through thoughtful web interfaces.
-
-I thrive in the full development lifecycle - from architecting backend systems to polishing pixel-perfect frontends.
-
----
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -79,6 +49,35 @@ I thrive in the full development lifecycle - from architecting backend systems t
   <img width="12" />
   <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi logo"  />
 </div>
+
+
+---
+
+### 🏆 Hackathon Adventures
+
+- **TulaHack**: Secured 2nd place developing an ML-powered street cleanliness monitoring system (Full-Stack Role)
+- **GoAlgo**: Secured 2nd place building sophisticated stock trading algorithms and visualization tools (Backend Role)
+- **Hackers League Hackathon**: Developed a freelance platform based on TON blockchain (Fullstack Blockchain Role)
+
+---
+
+### 🌟 Beyond Coding
+
+When I'm not immersed in code, you might find me:
+- Training in martial arts, honing discipline and focus
+- Creating and producing music to exercise the creative side of my brain
+- Exploring new destinations and cultures through travel
+- Unwinding in a sauna, embracing the traditional relaxation technique
+
+---
+
+### 🔭 What Drives Me
+
+What captures my imagination? The intersection of decentralized ledgers and seamless user experiences. I'm fascinated by how blockchain can transform traditional systems while remaining accessible through thoughtful web interfaces.
+
+I thrive in the full development lifecycle - from architecting backend systems to polishing pixel-perfect frontends.
+
+---
 
 ###
 
