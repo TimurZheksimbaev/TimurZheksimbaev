@@ -51,10 +51,13 @@ I'm Timur, a full-stack developer forging connections between data and design. M
 
 ### 🏆 Hackathon Adventures
 
-- **TulaHack**: Secured 2nd place developing an ML-powered street cleanliness monitoring system (Full-Stack Role)
+- **TulaHack**: Secured 3nd place developing an ML-powered street cleanliness monitoring system (Full-Stack Role)
 - **GoAlgo**: Secured 2nd place building sophisticated stock trading algorithms and visualization tools (Backend Role)
 - **Hackers League Hackathon**: Developed a freelance platform based on TON blockchain (Fullstack Blockchain Role)
-Links to all certificates: <a href="https://drive.google.com/file/d/1PK4_v9QiAEL1o-5LTwueiqPx5JiBdzLs/view?usp=sharing"> TulaHack </a>
+  
+Links to all certificates: 
+- <a href="https://drive.google.com/file/d/1PK4_v9QiAEL1o-5LTwueiqPx5JiBdzLs/view?usp=sharing"> TulaHack </a>
+- <a href="https://drive.google.com/file/d/1gfbn3D-41TDTVwpsS2lFYczafHQ7h5AA/view?usp=sharing"> GoAlgo </a>
 ---
 
 ### 🌟 Beyond Coding
