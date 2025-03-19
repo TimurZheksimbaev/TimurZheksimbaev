@@ -82,6 +82,10 @@ I thrive in the full development lifecycle - from architecting backend systems t
 
 ###
 
+<img align="right" height="150" src="https://media.tenor.com/fVJln34EY9oAAAAM/mr-krabs-money-angels.gif"  />
+
+###
+
 <div align="left">
   <a href="https://t.me/masterhorny1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
@@ -96,13 +100,6 @@ I thrive in the full development lifecycle - from architecting backend systems t
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/TimurZheksimbaev/TimurZheksimbaev/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 ### 📫 Let's Connect
 *Let's build something revolutionary together!*
