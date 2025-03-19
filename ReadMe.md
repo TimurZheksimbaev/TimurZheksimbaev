@@ -23,7 +23,7 @@ I'm Timur, a full-stack developer forging connections between data and design. M
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" height="40" alt="solidity logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
