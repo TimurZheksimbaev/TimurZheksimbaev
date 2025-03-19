@@ -114,20 +114,6 @@ I thrive in the full development lifecycle - from architecting backend systems t
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/TimurZheksimbaev/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31q2hi5m2woi2bzthzarniabowiu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31q2hi5m2woi2bzthzarniabowiu&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 
 ### 📫 Let's Connect
 *Let's build something revolutionary together!*
