@@ -13,7 +13,7 @@ I'm Timur, a full-stack developer forging connections between data and design. M
 - **Frontend**: Built responsive interfaces at Picturino AI and WebBee using React, Redux, and Vite with a focus on performance optimization
 - **DevOps**: Experience with Docker, Kubernetes, CI/CD pipelines, system administration, and infrastructure monitoring
 
-<div align="left" style="display:flex; flex-direction:row; gap:10px">
+<div align="left" style="display:flex; flex-direction:row; gap:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
