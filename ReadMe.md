@@ -2,7 +2,7 @@
 
 ## 💻 Full-Stack Developer | Blockchain Enthusiast | Problem Solver | Experience 2 years
 
-I'm Timur, a full-stack developer forging connections between data and design. My technical journey includes *`engineering backend systems at Innopolis University`*, **`creating responsive frontends at Picturino AI`**, and valuable **frontend experience as an intern at WebBee**.
+I'm Timur, a full-stack developer forging connections between data and design. My technical journey includes **`engineering backend systems at Innopolis University`**, **`creating responsive frontends at Picturino AI`**, and valuable **`frontend experience as an intern at WebBee`**.
 
 ---
 
