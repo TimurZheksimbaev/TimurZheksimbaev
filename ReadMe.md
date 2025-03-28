@@ -1,7 +1,7 @@
 # 👋 Hello, Привет, Hola, 你好, नमस्ते, Bonjour, Hallo
 
 ## 💻 *Full-Stack Developer | Blockchain Enthusiast | Experience `2 years`*
-I'm Timur, a full-stack developer forging connections between data and design. My technical journey lasts overall `4 years`, starting from school and individual projects and including `2 year` real experience **`engineering backend systems at Picturino AI`**, **`creating responsive frontends at PAVEPO`**, and valuable **`frontend experience as an intern at WebBee`**.
+I'm Timur, a full-stack developer forging connections between data and design. My technical journey lasts overall `4 years`, starting from school and individual projects and including `2 year` real experience **`engineering backend systems at Picturino AI`**, **`creating responsive frontends at PAVEPO`**, and valuable **`frontend internship at WebBee`**.
 
 
 ---
