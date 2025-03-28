@@ -8,7 +8,7 @@ I'm Timur, a full-stack developer forging connections between data and design. M
 
 ### 🛠️ Technical Arsenal
 
-- **Blockchain**: Completed Cyfrin Updraft program focused on Ethereum development, smart contracts, and Web3 integration
+- **Blockchain**: Completed Patrick Collins' Cyfrin Updraft program focused on Ethereum development, smart contracts, and Web3 integration
 - **Backend**: Mastered Python through working on backend and automation services in Picturino AI
 - **Frontend**: Built responsive interfaces at PAVEPO and WebBee using React, Redux, and Vite with a focus on performance optimization
 - **DevOps**: Experience with Docker, Kubernetes, CI/CD pipelines, system administration.
