@@ -26,7 +26,7 @@ I'm Timur, a full-stack developer forging connections between data and design. M
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" height="40" alt="solidity logo" />
   <img width="12" />
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=040" height="40" alt="ethereum logo"  />
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" height="40" alt="ethereum logo"  />
   <img width="12" />
   <img src="https://ton.org/download/ton_symbol.svg" height="40" alt="ton logo"  />
   <img width="12" />
