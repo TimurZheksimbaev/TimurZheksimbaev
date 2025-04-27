@@ -1,13 +1,22 @@
 # 👋 Hello, Привет, Hola, 你好, नमस्ते, Bonjour, Hallo
 
-### 🚀 Full-Stack Developer | Blockchain Enthusiast | 3+ Years of Commercial Experience
-#### Hi, I’m Timur, a passionate full-stack developer with a knack for bridging the gap between robust backend systems and intuitive frontend experiences. Over the past 5 years, I’ve honed my skills—starting from school projects to 3 years of hands-on commercial work—where I’ve:
+### 🚀 Full-Stack Developer | Blockchain Explorer | Problem Solver
 
-- Engineered scalable backend solutions at Picturino AI, optimizing performance for AI-driven applications.
+I've been turning coffee into code for 5 years, with 3 years of professional experience creating real-world solutions. Here's my journey:
 
-- Crafted responsive, user-friendly frontends at PAVEPO, ensuring seamless digital experiences.
+- **At Picturino AI**: Built backend systems that don't just work, but work smart - applying DRY principles to keep our codebase lean and maintainable
+- **At PAVEPO**: Crafted frontends that users actually enjoy - because simple (KISS) is always better
+- **At WebBee**: Learned that good code follows SOLID principles, while bad code follows "it works on my machine" principles
 
-- Gained foundational expertise through a frontend internship at WebBee, mastering modern web development practices.
+---
+
+### 🧐 My Development Philosophy
+
+I believe in:
+- **DRY**: Write it once, and write it right
+- **SOLID**: Building systems that won't collapse when requirements change
+- **KISS**: The simplest solution is usually the best one
+- **DevOps Mindset**: If it's not automated, it's not done
 
 ---
 
