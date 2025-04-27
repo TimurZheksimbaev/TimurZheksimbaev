@@ -9,8 +9,6 @@
 
 - Gained foundational expertise through a frontend internship at WebBee, mastering modern web development practices.
 
-#### I thrive on turning complex problems into elegant, efficient code—whether it’s refining APIs, building dynamic UIs, or diving into blockchain innovation. Let’s build something great together!
-
 ---
 
 ### 🛠️ Technical Arsenal
