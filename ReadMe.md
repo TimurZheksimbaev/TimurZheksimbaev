@@ -1,8 +1,15 @@
 # 👋 Hello, Привет, Hola, 你好, नमस्ते, Bonjour, Hallo
 
-## 💻 *Full-Stack Developer | Blockchain Enthusiast | Experience `2 years`*
-I'm Timur, a full-stack developer forging connections between data and design. My technical journey lasts overall `5 years`, starting from school and individual projects and including `3 years` of commercial experience **`engineering backend systems at Picturino AI`**, **`creating responsive frontends at PAVEPO`**, and valuable **`frontend internship at WebBee`**.
+🚀 Full-Stack Developer | Blockchain Enthusiast | 3+ Years of Commercial Experience
+Hi, I’m Timur, a passionate full-stack developer with a knack for bridging the gap between robust backend systems and intuitive frontend experiences. Over the past 5 years, I’ve honed my skills—starting from school projects to 3 years of hands-on commercial work—where I’ve:
 
+Engineered scalable backend solutions at Picturino AI, optimizing performance for AI-driven applications.
+
+Crafted responsive, user-friendly frontends at PAVEPO, ensuring seamless digital experiences.
+
+Gained foundational expertise through a frontend internship at WebBee, mastering modern web development practices.
+
+I thrive on turning complex problems into elegant, efficient code—whether it’s refining APIs, building dynamic UIs, or diving into blockchain innovation. Let’s build something great together!
 
 ---
 
