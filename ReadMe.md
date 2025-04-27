@@ -1,9 +1,8 @@
 # 👋 Hello, Привет, Hola, 你好, नमस्ते, Bonjour, Hallo
 
-### 🚀 Full-Stack Developer | Blockchain Explorer | Problem Solver
+### 🚀 Full-Stack Developer | Blockchain Explorer | (3+ years experience)
 
 I've been turning coffee into code for 5 years, with 3 years of professional experience creating real-world solutions. Here's my journey:
-
 - **At Picturino AI**: Built backend systems that don't just work, but work smart - applying DRY principles to keep our codebase lean and maintainable
 - **At PAVEPO**: Crafted frontends that users actually enjoy - because simple (KISS) is always better
 - **At WebBee**: Learned that good code follows SOLID principles, while bad code follows "it works on my machine" principles
