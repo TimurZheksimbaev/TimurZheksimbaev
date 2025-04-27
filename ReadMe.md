@@ -5,8 +5,8 @@
 I've been turning coffee into code for 5 years, with `3 years of professional experience creating real-world solutions`. Here's my journey:
 
 - **At Picturino AI**: Built scalable backend systems for AI applications, focusing on `performance` and `maintainability`
-- **At PAVEPO**: Developed *responsive*, user-friendly interfaces that delivered great UX
-- **At WebBee**: Gained hands-on experience with modern frontend development practices
+- **At PAVEPO**: Developed `responsive`, user-friendly interfaces that delivered great `UX`
+- **At WebBee**: Gained hands-on experience with modern `frontend development practices`
 
 ---
 
