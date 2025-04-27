@@ -58,23 +58,7 @@ I'm Timur, a full-stack developer forging connections between data and design. M
 Links to all certificates: 
 - <a href="https://drive.google.com/file/d/1PK4_v9QiAEL1o-5LTwueiqPx5JiBdzLs/view?usp=sharing"> TulaHack </a>
 - <a href="https://drive.google.com/file/d/1gfbn3D-41TDTVwpsS2lFYczafHQ7h5AA/view?usp=sharing"> GoAlgo </a>
----
 
-### 🌟 Beyond Coding
-
-When I'm not immersed in code, you might find me:
-- Training in martial arts, honing discipline and focus
-- Creating and producing music to exercise the creative side of my brain
-- Exploring new destinations and cultures through travel
-- Unwinding in a sauna, embracing the traditional relaxation technique
-
----
-
-### 🔭 What Drives Me
-
-What captures my imagination? The intersection of decentralized ledgers and seamless user experiences. I'm fascinated by how blockchain can transform traditional systems while remaining accessible through thoughtful web interfaces.
-
-I thrive in the full development lifecycle - from architecting backend systems to polishing pixel-perfect frontends.
 
 ---
 
