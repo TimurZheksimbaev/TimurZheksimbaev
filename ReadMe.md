@@ -1,6 +1,6 @@
 # 👋 Hello, Привет, Hola, 你好, नमस्ते, Bonjour, Hallo
 
-### 🚀 Full-Stack Developer | Blockchain Explorer | (3+ years experience)
+### 🚀 Full-Stack Developer | Blockchain Explorer | *(3+ years experience)*
 
 I've been turning coffee into code for 5 years, with 3 years of professional experience creating real-world solutions. Here's my journey:
 
