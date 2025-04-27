@@ -65,8 +65,8 @@ I believe in:
 
 ### 🏆 Hackathon Adventures
 
-- **TulaHack**: Secured 3rd place developing an ML-powered street cleanliness monitoring system (Full-Stack Role)
-- **GoAlgo**: Built sophisticated stock trading algorithms and visualization tools (Backend Role)
+- **TulaHack**: Secured 3rd place developing an ML-powered street cleanliness monitoring system (Full-Stack Role). <a href="https://drive.google.com/file/d/1PK4_v9QiAEL1o-5LTwueiqPx5JiBdzLs/view?usp=sharing"> TulaHack </a> 
+- **GoAlgo**: Built sophisticated stock trading algorithms and visualization tools (Backend Role). <a href="https://drive.google.com/file/d/1gfbn3D-41TDTVwpsS2lFYczafHQ7h5AA/view?usp=sharing"> GoAlgo </a>
 - **Hackers League Hackathon**: Developed a freelance platform based on TON blockchain (Fullstack Blockchain Role)
   
 Links to all certificates: 
