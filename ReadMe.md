@@ -1,95 +1,122 @@
-# Тимур Жексимбаев | Timur Zheksimbaev
+# Жексимбаев Тимур
 
-## 👨‍💻 Frontend Developer
+### 🚀 Frontend Разработчик | Blockchain разработчик | *(2+ лет опыта)*
 
-[![Email](https://img.shields.io/badge/Email-tmrzheksimbaev.work%40yahoo.com-blue?style=flat-square&logo=yahoo)](mailto:tmrzheksimbaev.work@yahoo.com)
-[![Phone](https://img.shields.io/badge/Phone-89242824975-green?style=flat-square&logo=whatsapp)](tel:89242824975)
-[![GitHub](https://img.shields.io/badge/GitHub-TimurZheksimbaev-181717?style=flat-square&logo=github)](https://github.com/TimurZheksimbaev)
+Привет! Я frontend-разработчик, который любит создавать удобные и эффективные пользовательские интерфейсы. Меня привлекает возможность сочетать техническую логику с визуальным дизайном, чтобы решать реальные задачи пользователей.
 
----
+За 2+ года коммерческого опыта я работал с React, TypeScript и другими современными технологиями на разных проектах. Особенно меня интересует оптимизация производительности и улучшение пользовательского опыта.
 
-### 🌟 О себе | About me
+### Мой профессиональный путь:
 
-**RU**: Frontend разработчик с 2 годами коммерческого опыта в создании современных веб-приложений на React, TypeScript, Redux. Специализируюсь на разработке высокопроизводительных UI-компонентов с применением принципов SOLID. Активно участвую в хакатонах и стремлюсь к постоянному применению лучших практик в коде.
+- **🔷 В PAVEPO**: Разработал высокопроизводительные пользовательские интерфейсы с фокусом на `оптимизацию` и `UX`, включая интеграции с Telegram Mini Apps и TonConnect
 
-**EN**: Frontend developer with 2 years of commercial experience in creating modern web applications using React, TypeScript, Redux. I specialize in developing high-performance UI components applying SOLID principles. I actively participate in hackathons and strive to continuously implement best practices in code.
+- **🔷 В Picturino AI**: Создал интерактивные системы с интеграцией ML-моделей и повышением `производительности на 60%`, реализовал масштабируемое хранение на AWS S3
 
----
+- **🔷 На хакатонах и в open source**: Получил ценный опыт командной работы и быстрой разработки `инновационных решений`, от интерактивных дашбордов до блокчейн-приложений, включая призовое место на TulaHack 2024
 
-### 🛠️ Технологии | Tech Stack
+### 🚀 Мои проекты
 
-#### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+<div align="center">
 
-#### Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+| Проект | Описание | Демо | Код |
+|--------|----------|------|-----|
+| **CareerPrep AI** | *Платформа для подготовки к собеседованию в формате аудиозвонка с ИИ* | [Демо](https://ai-interview-platform-navy.vercel.app/sign-in) | [GitHub](https://github.com/TimurZheksimbaev/AI-Interview-Platform) |
+| **DocsNow** | *Онлайн редактор текста с возможностью работы в реальном времени с другими людьми* | [Демо](https://real-time-online-docs-app.vercel.app/) | [GitHub](https://github.com/TimurZheksimbaev/Real-Time-Online-Docs-App) |
+| **Brainwave** | *Лэндинг для ИИ чата с возможностью генерации фото и видео* | [Демо](https://brainwave-azure.vercel.app/) | [GitHub](https://github.com/TimurZheksimbaev/AI-App-Landing-Page) |
+| **BearScribes** | *Веб приложение-библиотека, вы можете искать книги и добавлять в "Избранное" и многое другое* | [Демо](https://bear-scribes-vercel.vercel.app/) | [GitHub](https://github.com/IU-Team-Projects/BearScribes) |
 
-#### Web3
-![TON](https://img.shields.io/badge/-TON-0088CC?style=flat-square&logo=telegram&logoColor=white)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-
-#### DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-4285F4?style=flat-square&logo=github-actions&logoColor=white)
+</div>
 
 ---
 
-### 💼 Опыт работы | Work Experience
-
-#### Frontend Developer at PAVEPO (10/2023 – 03/2025)
-- Разработка и оптимизация пользовательских интерфейсов с TypeScript, React и Redux
-- Создание Telegram Mini Apps с интеграцией платежных систем через TonConnect
-- Разработка адаптивных интерфейсов с SCSS
-- Настройка сборки проекта с использованием Vite
-
-#### Frontend Developer at Picturino AI (03/2023 – 08/2023)
-- Реализация интерактивного редактора изображений
-- Интеграция с AWS S3 для эффективного хранения и доступа к изображениям
-- Разработка алгоритмов автоматизации генерации изображений с использованием ML
+Я верю в:
+- **DRY**: Напиши один раз, напиши правильно
+- **SOLID**: Создание систем, которые не рухнут при изменении требований
+- **KISS**: Самое простое решение обычно лучшее
+- **Чистый код**: Код пишется один раз, но читается много раз
 
 ---
 
-### 🏆 Хакатоны | Hackathons
+### 🛠️ Технический арсенал
 
-- **МТС TrueTech Хакатон**: Интерактивная визуализация JSON-схем для редактирования бизнес-процессов
-- **GoAlgo**: Интерактивный дашборд для визуализации торговых стратегий (React + D3.js)
-- **TulaHack (3 место)**: Система мониторинга сбора отходов с визуализацией данных и интеграцией карт
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />        
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" alt="vite logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" height="40" alt="solidity logo" />
+  <img width="12" />
+  <img src="https://www.cryptologos.cc/logos/versions/ethereum-eth-logo-animated.gif" height="40" alt="ethereum logo"  />
+  <img width="12" />
+  <img src="https://ton.org/download/ton_symbol.svg" height="40" alt="ton logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+</div>
+
+- **Frontend**: Создаю современные приложения на React, TypeScript и Redux с глубокой оптимизацией производительности
+- **Web3**: Разрабатываю интеграции с TON (TonConnect) и Ethereum (Solidity, ethers.js)
+- **Backend**: Имею опыт работы с Python, Node.js и базами данных (PostgreSQL, MongoDB)
+- **DevOps**: Знаком с Docker, AWS и CI/CD для автоматизации процессов разработки
 
 ---
 
-### 🎓 Образование | Education
+### 🏆 Хакатоны и достижения
 
-- **Бакалавриат/Кибербезопасность**, Университет Иннополис (08/2022 – 08/2026)
-  - Углубленный курс по веб разработке и Javascript
-  - Системное администрирование и Linux
-
----
-
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TimurZheksimbaev&show_icons=true&theme=prussian)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimurZheksimbaev&layout=compact&theme=prussian)
+- **TulaHack 2024**: 3-е место за разработку системы мониторинга сбора отходов с обработкой до 500 фотоотчетов ежедневно
+- **GoAlgo**: Создание интерактивного дашборда для визуализации торговых стратегий с использованием React и D3.js
+- **МТС TrueTech Хакатон**: Реализация интерактивной визуализации JSON-схем для редактирования бизнес-процессов
+- **Hackers League Hackathon**: Разработка децентрализованной платформы с интеграцией TonConnect и системой валидации на основе ИИ
 
 ---
 
-### 🔍 Активность | Activity
+### 📊 Ключевые достижения
 
-📌 В настоящее время работаю над улучшением своих навыков в области разработки интерактивных Web3-приложений и игровых механик для браузерных игр.
-
-🌱 Изучаю Three.js для создания 3D-визуализаций в веб-приложениях.
-
-💬 Свяжитесь со мной, если у вас есть интересные проекты или предложения о сотрудничестве!
+- ⚡️ **Оптимизация UI**: Ускорение взаимодействия с интерфейсами на 30%
+- 📱 **Адаптивные интерфейсы**: Сокращение проблем мобильной версии на 40%
+- 🚀 **Оптимизация разработки**: Настройка сборки через Vite с ускорением процессов на 35%
+- 🔄 **Автоматизация**: Разработка алгоритмов для генерации изображений с ML-моделями (+60% производительности)
+- 💾 **Масштабирование**: Интеграция с AWS S3 для управления 10,000+ изображений ежедневно
 
 ---
 
-**"Чистый код — хороший, но рабочий код — лучше. Идеален — чистый рабочий код."**
+<img align="right" height="150" src="https://media.tenor.com/fVJln34EY9oAAAAM/mr-krabs-money-angels.gif"  />
+
+###
+
+<div align="left">
+  <a href="https://t.me/tmrzhksmbv" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+  <a href="https://discordapp.com/users/timurzheksimbaev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://instagram.com/tttttmmmmmrrrrr_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+### 📫 Связаться со мной
+*Давайте создадим что-то революционное вместе!*
+
+- 📧 Email: tmrzheksimbaev.work@yahoo.com
+- 💬 Telegram: [t.me/masterhorny1](https://t.me/masterhorny1)
