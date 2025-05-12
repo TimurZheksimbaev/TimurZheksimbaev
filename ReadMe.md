@@ -1,99 +1,95 @@
-# 👋 Hello, Привет, Hola, 你好, नमस्ते, Bonjour, Hallo
+# Тимур Жексимбаев | Timur Zheksimbaev
 
-### 🚀 Full-Stack Developer | Blockchain Explorer | *(3+ years experience)*
+## 👨‍💻 Frontend Developer
 
-I've been turning coffee into code for 5 years, with `3 years of professional experience creating real-world solutions`. Here's my journey:
-
-- **At Picturino AI**: Built scalable backend systems for AI applications, focusing on `performance` and `maintainability`
-- **At PAVEPO**: Developed `responsive`, user-friendly interfaces that delivered great `UX`
-- **At WebBee**: Gained hands-on experience with modern `frontend development practices`
+[![Email](https://img.shields.io/badge/Email-tmrzheksimbaev.work%40yahoo.com-blue?style=flat-square&logo=yahoo)](mailto:tmrzheksimbaev.work@yahoo.com)
+[![Phone](https://img.shields.io/badge/Phone-89242824975-green?style=flat-square&logo=whatsapp)](tel:89242824975)
+[![GitHub](https://img.shields.io/badge/GitHub-TimurZheksimbaev-181717?style=flat-square&logo=github)](https://github.com/TimurZheksimbaev)
 
 ---
 
-### 🧐 My Development Philosophy
+### 🌟 О себе | About me
 
-I believe in:
-- **DRY**: Write it once, and write it right
-- **SOLID**: Building systems that won't collapse when requirements change
-- **KISS**: The simplest solution is usually the best one
-- **DevOps Mindset**: If it's not automated, it's not done
+**RU**: Frontend разработчик с 2 годами коммерческого опыта в создании современных веб-приложений на React, TypeScript, Redux. Специализируюсь на разработке высокопроизводительных UI-компонентов с применением принципов SOLID. Активно участвую в хакатонах и стремлюсь к постоянному применению лучших практик в коде.
+
+**EN**: Frontend developer with 2 years of commercial experience in creating modern web applications using React, TypeScript, Redux. I specialize in developing high-performance UI components applying SOLID principles. I actively participate in hackathons and strive to continuously implement best practices in code.
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Технологии | Tech Stack
 
-- **Blockchain**: Completed Patrick Collins' **Cyfrin Updraft** program focused on Ethereum development, smart contracts, and Web3 integration
-- **Backend**: Mastered Python through working on **backend and automation services** in Picturino AI
-- **Frontend**: Built **responsive interfaces** at PAVEPO and WebBee using React, Redux, and Vite with a focus on **performance optimization**
-- **DevOps**: Experience with Docker, Kubernetes, CI/CD pipelines, system administration.
+#### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" height="40" alt="solidity logo" />
-  <img width="12" />
-  <img src="https://www.cryptologos.cc/logos/versions/ethereum-eth-logo-animated.gif" height="40" alt="ethereum logo"  />
-  <img width="12" />
-  <img src="https://ton.org/download/ton_symbol.svg" height="40" alt="ton logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-</div>
+#### Backend & Database
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
+#### Web3
+![TON](https://img.shields.io/badge/-TON-0088CC?style=flat-square&logo=telegram&logoColor=white)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+
+#### DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-4285F4?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
-### 🏆 Hackathon Adventures
+### 💼 Опыт работы | Work Experience
 
-- **TulaHack**: Secured 3rd place developing an ML-powered street cleanliness monitoring system (Full-Stack Role). <a href="https://drive.google.com/file/d/1PK4_v9QiAEL1o-5LTwueiqPx5JiBdzLs/view?usp=sharing"> TulaHack </a> 
-- **GoAlgo**: Built sophisticated stock trading algorithms and visualization tools (Backend Role). <a href="https://drive.google.com/file/d/1gfbn3D-41TDTVwpsS2lFYczafHQ7h5AA/view?usp=sharing"> GoAlgo </a>
-- **Hackers League Hackathon**: Developed a freelance platform based on TON blockchain (Fullstack Blockchain Role)
+#### Frontend Developer at PAVEPO (10/2023 – 03/2025)
+- Разработка и оптимизация пользовательских интерфейсов с TypeScript, React и Redux
+- Создание Telegram Mini Apps с интеграцией платежных систем через TonConnect
+- Разработка адаптивных интерфейсов с SCSS
+- Настройка сборки проекта с использованием Vite
+
+#### Frontend Developer at Picturino AI (03/2023 – 08/2023)
+- Реализация интерактивного редактора изображений
+- Интеграция с AWS S3 для эффективного хранения и доступа к изображениям
+- Разработка алгоритмов автоматизации генерации изображений с использованием ML
 
 ---
 
-###
+### 🏆 Хакатоны | Hackathons
 
-<img align="right" height="150" src="https://media.tenor.com/fVJln34EY9oAAAAM/mr-krabs-money-angels.gif"  />
+- **МТС TrueTech Хакатон**: Интерактивная визуализация JSON-схем для редактирования бизнес-процессов
+- **GoAlgo**: Интерактивный дашборд для визуализации торговых стратегий (React + D3.js)
+- **TulaHack (3 место)**: Система мониторинга сбора отходов с визуализацией данных и интеграцией карт
 
-###
+---
 
-<div align="left">
-  <a href="https://t.me/masterhorny1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  <a href="https://discordapp.com/users/timurzheksimbaev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://instagram.com/tttttmmmmmrrrrr_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### 🎓 Образование | Education
 
-###
+- **Бакалавриат/Кибербезопасность**, Университет Иннополис (08/2022 – 08/2026)
+  - Углубленный курс по веб разработке и Javascript
+  - Системное администрирование и Linux
 
-### 📫 Let's Connect
-*Let's build something revolutionary together!*
+---
 
-- 📧 Email: tmrzheksimbaev.work@yahoo.com
-- 💬 Telegram: [t.me/masterhorny1](https://t.me/masterhorny1)
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TimurZheksimbaev&show_icons=true&theme=prussian)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimurZheksimbaev&layout=compact&theme=prussian)
+
+---
+
+### 🔍 Активность | Activity
+
+📌 В настоящее время работаю над улучшением своих навыков в области разработки интерактивных Web3-приложений и игровых механик для браузерных игр.
+
+🌱 Изучаю Three.js для создания 3D-визуализаций в веб-приложениях.
+
+💬 Свяжитесь со мной, если у вас есть интересные проекты или предложения о сотрудничестве!
+
+---
+
+**"Чистый код — хороший, но рабочий код — лучше. Идеален — чистый рабочий код."**
