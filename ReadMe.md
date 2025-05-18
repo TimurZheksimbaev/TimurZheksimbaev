@@ -69,8 +69,6 @@
 
 ---
 
-<img align="right" height="150" src="https://media.tenor.com/fVJln34EY9oAAAAM/mr-krabs-money-angels.gif"  />
-
 ###
 
 <div align="left">
